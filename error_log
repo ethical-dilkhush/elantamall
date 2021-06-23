@@ -1,0 +1,182 @@
+[27-May-2021 18:56:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 122
+[27-May-2021 18:56:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 123
+[27-May-2021 18:56:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 133
+[27-May-2021 18:56:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 138
+[27-May-2021 19:47:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[27-May-2021 19:47:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[27-May-2021 19:47:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[27-May-2021 19:47:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[27-May-2021 19:55:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[27-May-2021 19:55:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[27-May-2021 19:55:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[27-May-2021 19:55:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 10:11:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[28-May-2021 10:11:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[28-May-2021 10:11:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[28-May-2021 10:11:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 10:12:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[28-May-2021 10:12:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[28-May-2021 10:12:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[28-May-2021 10:12:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 10:13:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[28-May-2021 10:13:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[28-May-2021 10:13:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[28-May-2021 10:13:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 10:16:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[28-May-2021 10:16:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[28-May-2021 10:16:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[28-May-2021 10:16:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 07:20:58 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[28-May-2021 07:20:58 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[28-May-2021 12:50:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[28-May-2021 12:50:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[28-May-2021 12:50:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[28-May-2021 12:50:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 13:23:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 1197
+[28-May-2021 13:26:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 1197
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:23 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 13:26:34 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:52:50 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:54:03 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 14:58:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 17:44:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[28-May-2021 17:44:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[28-May-2021 17:44:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[28-May-2021 17:44:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Notice:  Undefined variable: wallet_result in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 208
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 300
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 301
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 414
+[28-May-2021 21:17:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/czyrr7hi744m/public_html/mall/pages/person/win.php on line 415
+[28-May-2021 15:50:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/czyrr7hi744m/public_html/mall/pages/person/withdraw.php on line 197
+[28-May-2021 17:03:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/czyrr7hi744m/public_html/mall/pages/person/withdraw.php on line 316
+[28-May-2021 17:51:32 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/czyrr7hi744m/public_html/mall/pages/person/withdrawHandler.php on line 3
+[30-May-2021 23:53:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[30-May-2021 23:53:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[30-May-2021 23:53:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[30-May-2021 23:53:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[31-May-2021 11:11:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[31-May-2021 11:11:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[31-May-2021 11:11:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[31-May-2021 11:11:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[31-May-2021 23:02:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[01-Jun-2021 00:08:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[01-Jun-2021 00:08:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[01-Jun-2021 00:08:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[01-Jun-2021 00:08:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[01-Jun-2021 00:16:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[01-Jun-2021 00:16:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[01-Jun-2021 00:16:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[01-Jun-2021 00:16:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[01-Jun-2021 06:34:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[01-Jun-2021 06:34:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[01-Jun-2021 06:34:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[01-Jun-2021 06:34:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[01-Jun-2021 07:27:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[01-Jun-2021 07:27:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[01-Jun-2021 07:27:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[01-Jun-2021 07:27:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[01-Jun-2021 12:43:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[01-Jun-2021 12:43:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[01-Jun-2021 12:43:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[01-Jun-2021 12:43:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[01-Jun-2021 07:48:10 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:10 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 13:18:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 116
+[01-Jun-2021 13:18:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 117
+[01-Jun-2021 13:18:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 127
+[01-Jun-2021 13:18:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 132
+[01-Jun-2021 07:48:17 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:17 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 07:48:19 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:19 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 07:48:20 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:20 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 07:48:22 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:22 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 07:48:25 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:25 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 07:48:28 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:28 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 07:48:36 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 52
+[01-Jun-2021 07:48:36 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/mall/pages/person/otp_process.php on line 56
+[01-Jun-2021 14:28:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/person/otp_process.php on line 132
+[01-Jun-2021 14:28:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/person/otp_process.php on line 132
+[01-Jun-2021 14:28:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/person/otp_process.php on line 132
+[01-Jun-2021 09:43:01 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 09:43:08 UTC] PHP Notice:  Undefined index: otp in /home/czyrr7hi744m/public_html/person/otp_process.php on line 52
+[01-Jun-2021 09:43:08 UTC] PHP Notice:  Undefined index: phn in /home/czyrr7hi744m/public_html/person/otp_process.php on line 56
+[01-Jun-2021 09:44:59 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 09:45:20 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 09:46:00 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 09:46:47 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 09:47:56 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 09:50:24 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 15:20:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/czyrr7hi744m/public_html/person/otp_process.php on line 132
+[01-Jun-2021 09:50:43 UTC] PHP Notice:  Undefined index: rcode in /home/czyrr7hi744m/public_html/person/otp_process.php on line 55
+[01-Jun-2021 09:51:06 UTC] PHP Notice:  Undefined index: rcode in /home/czyrr7hi744m/public_html/person/otp_process.php on line 55
+[01-Jun-2021 09:51:10 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
+[01-Jun-2021 09:52:12 UTC] PHP Notice:  Undefined index: r_code in /home/czyrr7hi744m/public_html/person/forgotpass.php on line 2
