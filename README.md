@@ -1,37 +1,38 @@
 # Elantamall
 
-> A careful, production-oriented implementation designed for real-world use, maintainability, and long-term evolution.
+A PHP web application for mall/administration workflows.
 
 ## Overview
 
-Elantamall is architected to solve a concrete problem with reliable, modular code. It keeps concerns cleanly separated so contributions, extensions, and maintenance remain feasible as the project grows.
+This repo contains the application entry points, handlers, and admin flows for the Elantamall project. It is organized around plain PHP pages with shared utilities for authentication, wallet, recharge, promotion, and withdrawal flows.
 
-## Features
+## Prerequisites
 
--well-organized modules with clear responsibilities
-- Robust error handling and configurable behavior
-- Developer onboarding guides and sensible defaults
-- Extensible design without coupling core flows to specific environments
+- PHP 7.4+
+- MySQL/MariaDB
+- A web server with `.htaccess` support
 
-## Install
+## Configuration
 
-```bash
-# Install dependencies and setup according to project docs
+Create a `.env` file or set environment variables for database access:
+
 ```
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=
+DB_NAME=
+```
+
+The app reads these from `getenv()` in `connection.php`. Do not hardcode secrets in committed source.
 
 ## Usage
 
-```bash
-# Follow README instructions documented in repo files
-```
+Serve the repo root from a PHP-enabled host. Default page is `index.php`. Use the available handlers for recharge, withdrawal, and admin actions.
 
-## Tech Stack
+## Repository
 
-Built with proven tooling and modern patterns appropriate for the project’s scope.
+https://github.com/ethical-dilkhush/elantamall
 
 ## License
 
-MIT License — open source, free for commercial use.
-
----
-Built and maintained by Dilkhush Kumar ([@ethical-dilkhush](https://github.com/ethical-dilkhush)).
+MIT

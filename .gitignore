@@ -1,0 +1,8 @@
+/.env
+/error_log
+/vendor
+/node_modules
+composer.lock
+*.log
+/dist
+/build
